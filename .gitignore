@@ -17,3 +17,6 @@ checkpoints/
 result/
 finetune_data/
 logs/
+.ipynb_checkpoints/
+checkpoints
+checkpoints/
